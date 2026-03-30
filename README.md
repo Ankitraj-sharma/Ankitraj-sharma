@@ -64,12 +64,22 @@ const ankitraj = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankitraj-sharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&rank_icon=github" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankitraj-sharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&rank_icon=github&cache_seconds=1800" width="48%" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com?user=Ankitraj-sharma&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff" width="48%" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitraj-sharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" width="40%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitraj-sharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8&cache_seconds=1800" width="40%" alt="Top Languages"/>
+</div>
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| 📦 Public Repos | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ankitraj-sharma&query=public_repos&label=Repos&color=00D9FF&style=flat-square) |
+| 👥 Followers | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ankitraj-sharma&query=followers&label=Followers&color=00D9FF&style=flat-square) |
+| ⭐ Following | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ankitraj-sharma&query=following&label=Following&color=00D9FF&style=flat-square) |
+
 </div>
 
 <br/>
