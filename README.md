@@ -66,16 +66,20 @@ const ankitraj = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankitraj-sharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&rank_icon=github&cache_seconds=86400" width="49%" alt="GitHub Stats"/>
+  <img src="https://my-repo-fxqxv4kgv-ankitraj-sharmas-projects.vercel.app/api?username=Ankitraj-sharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&rank_icon=github" width="49%" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com?user=Ankitraj-sharma&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff" width="49%" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitraj-sharma&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8&cache_seconds=86400" width="38%" alt="Top Languages"/>
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ankitraj-sharma&theme=tokyonight&utcOffset=5.5" width="49%" alt="Productive Time"/>
+  <img src="https://my-repo-fxqxv4kgv-ankitraj-sharmas-projects.vercel.app/api/top-langs/?username=Ankitraj-sharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" width="40%" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankitraj-sharma&theme=tokyonight" width="98%" alt="Profile Summary"/>
 </div>
 
 <br/>
