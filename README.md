@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey+there!+I'm+Ankitraj+Sharma+👋;Full+Stack+Developer+%7C+Open+Source+Lover;Building+cool+things+on+the+web+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey+there!+I'm+Ankitraj+Sharma+%F0%9F%91%8B;Full+Stack+Developer+%7C+Open+Source+Lover;Building+cool+things+on+the+web+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -17,7 +17,7 @@
 const ankitraj = {
   name: "Ankitraj Sharma",
   role: ["Frontend Developer", "Backend Developer", "Full Stack Developer"],
-  code: ["JavaScript", "TypeScript","java", "c" ,"c++" , "Python", "HTML", "CSS"],
+  code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
   tools: ["React", "Node.js", "Express", "MongoDB", "Git"],
   currentFocus: "Building scalable full-stack web applications",
   funFact: "I debug with console.log and I'm proud of it 😄"
@@ -36,25 +36,25 @@ const ankitraj = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
@@ -65,7 +65,7 @@ const ankitraj = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ankitraj-sharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&rank_icon=github" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitraj-sharma&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff" width="48%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Ankitraj-sharma&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff" width="48%" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -99,23 +99,24 @@ const ankitraj = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][(https://linkedin.com/in/Ankitraj-sharma](https://www.linkedin.com/in/ankitraj-sharma-9b1312330?utm_source=share_via&utm_content=profile&utm_medium=member_android))
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/Ankitraj-sharma](https://x.com/sharma_ankitraj))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/Ankitraj-sharma](https://www.instagram.com/ankitraj_sharma__?igsh=dmx6ZjhndW02ejRi))
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://Ankitraj-sharma.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitrajsharma666@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitraj-sharma-9b1312330)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sharma_ankitraj)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ankitraj_sharma__)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankitraj-sharma)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitrajsharma@gmail.com)
 
 </div>
 
 <br/>
 
-<!-- Profile Views & Trophy -->
+<!-- Profile Views -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ankitraj-sharma&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 <br/>
 
+<!-- Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ankitraj-sharma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="Trophies"/>
 </div>
