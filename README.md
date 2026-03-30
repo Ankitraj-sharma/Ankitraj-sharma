@@ -17,7 +17,7 @@
 const ankitraj = {
   name: "Ankitraj Sharma",
   role: ["Frontend Developer", "Backend Developer", "Full Stack Developer"],
-  code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
+  code: ["JavaScript", "TypeScript","java", "c" ,"c++" , "Python", "HTML", "CSS"],
   tools: ["React", "Node.js", "Express", "MongoDB", "Git"],
   currentFocus: "Building scalable full-stack web applications",
   funFact: "I debug with console.log and I'm proud of it 😄"
@@ -99,11 +99,11 @@ const ankitraj = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ankitraj-sharma)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ankitraj-sharma)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Ankitraj-sharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][(https://linkedin.com/in/Ankitraj-sharma](https://www.linkedin.com/in/ankitraj-sharma-9b1312330?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/Ankitraj-sharma](https://x.com/sharma_ankitraj))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/Ankitraj-sharma](https://www.instagram.com/ankitraj_sharma__?igsh=dmx6ZjhndW02ejRi))
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://Ankitraj-sharma.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitrajsharma@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitrajsharma666@gmail.com)
 
 </div>
 
