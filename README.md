@@ -114,7 +114,7 @@ I'm a Full Stack Developer focused on building **production-ready web applicatio
 
 I'm actively looking for **SDE internships** in full stack or frontend/backend roles. If you're hiring or open to collaborating, let's talk.
 
-📧 [ankitrajsharma@gmail.com](mailto:ankitrajsharma@gmail.com)
+📧 [ankitrajsharma@gmail.com](mailto:ankitrajsharma666@gmail.com)
 🔗 [linkedin.com/in/ankitraj-sharma-9b1312330](https://www.linkedin.com/in/ankitraj-sharma-9b1312330)
 🐦 [x.com/sharma_ankitraj](https://x.com/sharma_ankitraj)
 📸 [instagram.com/ankitraj_sharma__](https://www.instagram.com/ankitraj_sharma__)
