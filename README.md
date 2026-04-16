@@ -60,7 +60,7 @@ I'm a Full Stack Developer focused on building **production-ready web applicatio
 
 ## 🚀 Featured Projects
 
-### 🌐 Project Alpha
+### 🌐 Project rental site
 > A full-stack web app with authentication, dashboard, and REST API backend.
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
