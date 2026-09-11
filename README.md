@@ -273,7 +273,7 @@ https://github.com/Ankitraj-sharma?tab=repositories
 
 | Area             | Focus                         |
 | ---------------- | ----------------------------- |
-| 💻 Backend       | C#, .NET, ASP.NET Core        |
+| 💻 Backend       | C#, .NET, ASP.NET Core , python |
 | 🌐 Frontend      | React, JavaScript, TypeScript |
 | 🗄️ Database     | MySQL, MongoDB                |
 | 🔌 APIs          | REST APIs, Authentication     |
@@ -295,12 +295,12 @@ https://github.com/Ankitraj-sharma?tab=repositories
 ╠══════════════════════════════════════════════╣
 ║                                              ║
 ║  💻 Full Stack Applications                  ║
-║  ⚙️  ASP.NET Core Projects                   ║
+║  ⚙️  ASP.NET Core Projects & python project  ║
 ║  🤖 AI-Integrated Applications               ║
 ║  🌐 Modern Web Experiences                   ║
 ║  ☁️  Cloud Deployment                        ║
-║  🐳 Containerized Applications                ║
-║                                              ║
+║  🐳 Containerized Applications               ║
+║      ML models                               ║
 ╚══════════════════════════════════════════════╝
 ```
 
@@ -325,6 +325,10 @@ https://github.com/Ankitraj-sharma?tab=repositories
            ↓
      ┌────────────┐
      │    Cloud   │
+     └─────┬──────┘
+           ↓
+     ┌────────────┐
+     │   ML MODELS│
      └─────┬──────┘
            ↓
      ┌────────────┐
