@@ -1,210 +1,347 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Ankitraj-sharma&color=0e75b6&style=flat" alt="Profile Views"/>
+# 👋 Hi, I'm **Ankit Raj Sharma**
 
-# 👋 Hi, I'm Ankit Raj Sharma
+### 💻 Full Stack Developer · .NET Developer · Web Developer · CSE Student
 
-### 💻 Full Stack Developer | .NET & Web Developer | CSE Student
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+real-world+applications+%F0%9F%9A%80;Learning+Full+Stack+Development+%F0%9F%92%BB;Exploring+.NET%2C+React+%26+Cloud+%E2%98%81%EF%B8%8F;Turning+ideas+into+working+software+%F0%9F%94%A5" alt="Typing SVG" />
 
-Building practical applications, learning modern technologies, and turning ideas into real-world projects.
+<br/>
 
-<p>
-  <a href="https://github.com/Ankitraj-sharma">
-    <img src="https://img.shields.io/badge/GitHub-Ankitraj--sharma-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/ankitraj-sharma-9b1312330">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ankitrajsharma@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://x.com/sharma_ankitraj">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Ankitraj-sharma&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<br/><br/>
+
+<a href="https://github.com/Ankitraj-sharma">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ankitraj-sharma-9b1312330">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ankitrajsharma@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://x.com/sharma_ankitraj">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a **Computer Science Engineering student and aspiring Full Stack Developer** interested in building complete, practical software applications.
+```text
+👨‍💻 Developer        → Ankit Raj Sharma
+🎓 Education         → Computer Science Engineering
+💡 Focus             → Full Stack & Software Development
+⚙️ Backend           → C# / .NET / ASP.NET Core / Node.js
+🎨 Frontend          → HTML / CSS / JavaScript / React
+🗄️ Databases         → MySQL / MongoDB
+☁️ Cloud & DevOps    → GitHub Actions / Docker / Cloud Deployment
+🚀 Current Mission   → Build → Learn → Deploy → Improve
+```
 
-I enjoy working across the stack — from designing responsive user interfaces to developing backend logic, databases, APIs, and deployment workflows.
+I'm a **Computer Science Engineering student and aspiring Full Stack Developer** who enjoys turning ideas into practical software.
 
-* 🎓 Computer Science Engineering student
-* 💻 Interested in **Full Stack & Software Development**
-* 🌱 Currently improving my **C#, .NET, Web Development & Cloud** skills
-* 🚀 Building real-world projects to strengthen my development skills
-* 🧠 Practicing programming, problem solving and system development
-* 🔧 Interested in turning ideas into working applications
-* 🤝 Open to internships, collaborations and interesting development projects
+I like working across the complete development lifecycle — from designing interfaces and writing application logic to database integration, APIs, testing and deployment.
+
+### 🔥 What I'm Working Toward
+
+* 🚀 Building production-oriented applications
+* 💻 Becoming stronger with **C# & ASP.NET Core**
+* 🌐 Improving modern frontend development
+* 🧠 Strengthening DSA & problem solving
+* ☁️ Learning cloud & DevOps
+* 🤖 Exploring AI-integrated applications
+* 🤝 Contributing to open-source projects
+* 💼 Preparing for software development internships
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ Tech Stack
 
-### 💻 Languages
+## 💻 Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=cs,c,js,ts,python,html,css" />
 </p>
 
-### ⚙️ Frameworks & Development
+## 🚀 Frameworks & Libraries
 
 <p>
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET_Web_Forms-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express" />
 </p>
 
-### 🗄️ Databases
+## 🗄️ Databases
 
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🔧 Tools & Technologies
+## ☁️ Tools & DevOps
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,aws" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
+> A selection of projects that represent my journey across frontend, backend, full-stack development and AI.
+
+---
+
+## 🤖 IntellMeet
+
+### AI-Powered Meeting & Collaboration Platform
+
+A full-stack meeting platform focused on real-time communication, collaboration and AI-powered meeting intelligence.
+
+### ✨ Highlights
+
+* 🎥 Real-time meetings
+* 🖥️ Screen sharing
+* 💬 Real-time communication
+* 🤖 AI-powered meeting intelligence
+* 📋 Meeting summaries & action items
+* 👥 Team collaboration
+* 📊 Meeting analytics
+* 🔐 Authentication & authorization
+* 🐳 Docker-based development
+* ⚡ Modern full-stack architecture
+
+**Stack**
+
+`React` `TypeScript` `Node.js` `Express` `MongoDB` `Redis` `Socket.io` `WebRTC` `Docker`
+
+🔗 **Repository:**
+https://github.com/Ankitraj-sharma/intellmeet
+
+---
+
+## 🎓 Smart Online Examination System
+
+### Online Examination & Assessment Platform
+
+A web-based examination system designed to provide students with an interactive online testing experience.
+
+### ✨ Features
+
+* 🔐 Authentication
+* 📝 Online examinations
+* ⏱️ Timed tests
+* ❓ MCQ-based assessments
+* 📊 Automatic evaluation
+* 🏆 Instant results
+* 📱 Responsive interface
+
+**Stack**
+
+`JavaScript` `HTML` `CSS`
+
+🔗 **Repository:**
+https://github.com/Ankitraj-sharma/smart-online-examination-system
+
+---
+
 ## 🌏 Gujarat Tourism
 
-A modern tourism website designed to showcase the culture, heritage, destinations and attractions of Gujarat.
+### Discover Gujarat — Culture, Heritage & Destinations
 
-**Highlights**
+A modern tourism website designed to showcase Gujarat's destinations, heritage, culture and attractions.
 
-* 🌍 Tourism-focused web experience
-* 🎨 Modern responsive UI
-* ⚡ Vite-powered frontend
+### ✨ Features
+
+* 🏛️ Heritage destinations
+* 🌍 Tourism information
+* 🎨 Modern UI
+* 📱 Responsive design
 * 🤖 Gemini API integration
+* ⚡ Vite-powered frontend
 * 🌐 GitHub Pages deployment
-* 🔄 GitHub Actions deployment workflow
+* 🔄 GitHub Actions
 
-**Tech:** `TypeScript` `Vite` `HTML` `CSS` `Gemini API`
+**Stack**
 
-🔗 **Live:** https://ankitraj-sharma.github.io/Gujarat_tourism/
+`TypeScript` `Vite` `HTML` `CSS` `Gemini API`
 
-🔗 **Repository:** https://github.com/Ankitraj-sharma/Gujarat_tourism
+🔗 **Live Website:**
+https://ankitraj-sharma.github.io/Gujarat_tourism/
 
----
-
-## 🎮 Arrow Go Game
-
-A .NET-based game project inspired by arrow-based puzzle gameplay.
-
-The project focuses on developing game mechanics, scoring, progression and a competitive ranking system.
-
-**Planned / implemented concepts**
-
-* 🎯 Arrow-based gameplay
-* 🏆 Score system
-* 📊 Leaderboard
-* 🥇 Player ranking system
-* 📈 Level progression
-
-**Tech:** `.NET` `C#`
-
-🔗 **Repository:** https://github.com/Ankitraj-sharma
+🔗 **Repository:**
+https://github.com/Ankitraj-sharma/Gujarat_tourism
 
 ---
 
-## 👨‍🏫 GuruVandan — Teacher's Day Platform
+## 🚗 Rental Site
 
-A production-oriented **Teacher's Day web application** designed to allow students to send personalized messages to their teachers.
+### Cars & Bikes Rental Platform
 
-**Key concepts**
+A vehicle rental website focused on providing users with a simple interface for exploring and renting cars and bikes.
 
-* 👨‍🎓 Student message submission
-* 👨‍🏫 Teacher-specific message access
-* 🖼️ Teacher photos
-* 📧 Email notifications
-* 🏆 Wall of Fame
-* 🔗 Shareable message links
-* 🔐 Access control
-* 🎨 Modern animated UI
+### ✨ Features
 
-**Tech:** `ASP.NET Core 8 MVC` `C#` `SQL` `HTML` `CSS` `JavaScript`
+* 🚗 Car listings
+* 🏍️ Bike listings
+* 🔍 Vehicle browsing
+* 📄 Vehicle details
+* 👤 Client dashboard
+* 👨‍💼 Admin interface
+* 📞 Contact section
+* 📱 Responsive pages
 
-🔗 **Repository:** https://github.com/Ankitraj-sharma
+**Stack**
 
----
+`HTML` `CSS` `JavaScript`
 
-## 💰 Expense Tracking Module
-
-A C# console application developed to practice object-oriented programming and exception handling.
-
-**Features**
-
-* Add expenses
-* Expense categories
-* Payment modes
-* Expense date and place
-* Amount validation
-* Exception handling
-* Expense collection management
-
-**Tech:** `C#` `.NET`
-
-🔗 **Repository:** https://github.com/Ankitraj-sharma
+🔗 **Repository:**
+https://github.com/Ankitraj-sharma/rental-site
 
 ---
 
-# 📚 Currently Learning
+## 🌐 XINITY
+
+### Community & Events Frontend
+
+A frontend project for **XINITY**, a community platform featuring events and an engaging web experience.
+
+### ✨ Features
+
+* 👥 Community section
+* 🎉 Events
+* 📖 About section
+* 📩 Contact section
+* 🎨 Modern frontend
+* 📱 Responsive design
+* ⚡ Interactive UI
+
+**Stack**
+
+`HTML` `CSS` `JavaScript`
+
+🔗 **Repository:**
+https://github.com/Ankitraj-sharma/XINITY-FRONTEND-DEVELOPMENT
+
+---
+
+## 🏫 College Website
+
+### University Website Replica
+
+A frontend recreation of the **Marwadi University website**, created as a practical frontend development project.
+
+### ✨ Focus
+
+* 🎨 UI recreation
+* 🧭 Navigation
+* 📱 Responsive layout
+* 🏫 University content presentation
+* 💻 Frontend implementation
+
+**Stack**
+
+`HTML` `CSS`
+
+🔗 **Repository:**
+https://github.com/Ankitraj-sharma/college-website
+
+---
+
+## 💡 More Projects
+
+My GitHub also contains smaller programming, academic and experimental projects covering:
+
+* 💰 Expense Tracking
+* 🎓 Student Admission Management
+* 👨‍💼 Employee Payroll
+* 🌐 Web Development Experiments
+* 🔐 Authentication Projects
+* 🐍 Python/Data Analysis
+* 🌐 Networking & Cisco labs
+* 🧪 Programming practice projects
+
+👉 **Explore all repositories:**
+https://github.com/Ankitraj-sharma?tab=repositories
+
+---
+
+# 🧠 What I'm Learning
+
+<div align="center">
+
+| Area             | Focus                         |
+| ---------------- | ----------------------------- |
+| 💻 Backend       | C#, .NET, ASP.NET Core        |
+| 🌐 Frontend      | React, JavaScript, TypeScript |
+| 🗄️ Database     | MySQL, MongoDB                |
+| 🔌 APIs          | REST APIs, Authentication     |
+| ☁️ Cloud         | AWS & deployment              |
+| 🐳 DevOps        | Docker, GitHub Actions        |
+| 🧠 DSA           | Problem Solving & Algorithms  |
+| 🤖 AI            | AI-powered applications       |
+| 🏗️ Architecture | System Design                 |
+
+</div>
+
+---
+
+# 🔭 Currently Building
 
 ```text
-C# & .NET
-ASP.NET Core
-Full Stack Development
-REST APIs
-Database Design
-Docker
-AWS
-GitHub Actions
-System Design
-DSA & Problem Solving
+╔══════════════════════════════════════════════╗
+║              🚀 BUILDING PHASE               ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  💻 Full Stack Applications                  ║
+║  ⚙️  ASP.NET Core Projects                   ║
+║  🤖 AI-Integrated Applications               ║
+║  🌐 Modern Web Experiences                   ║
+║  ☁️  Cloud Deployment                        ║
+║  🐳 Containerized Applications                ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 ```
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 2026 Roadmap
 
-* 🚀 Build more production-level full-stack applications
-* 💻 Strengthen C# and ASP.NET Core development
-* 🌐 Improve frontend development skills
-* ☁️ Learn cloud deployment and DevOps
-* 🐳 Gain practical Docker experience
-* 🧠 Improve DSA and problem-solving skills
-* 🤝 Contribute to open-source projects
-* 💼 Secure a strong software development internship
+```text
+                    2026 DEVELOPMENT ROADMAP
+
+     ┌────────────┐
+     │    DSA     │
+     └─────┬──────┘
+           ↓
+     ┌────────────┐
+     │    .NET    │
+     └─────┬──────┘
+           ↓
+     ┌────────────┐
+     │  Fullstack │
+     └─────┬──────┘
+           ↓
+     ┌────────────┐
+     │    Cloud   │
+     └─────┬──────┘
+           ↓
+     ┌────────────┐
+     │   DevOps   │
+     └─────┬──────┘
+           ↓
+     ┌────────────┐
+     │     AI     │
+     └─────┬──────┘
+           ↓
+     ┌────────────┐
+     │   Open     │
+     │   Source   │
+     └─────┬──────┘
+           ↓
+     🚀 SOFTWARE ENGINEER
+```
 
 ---
 
@@ -212,9 +349,11 @@ DSA & Problem Solving
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ankitraj-sharma&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ankitraj-sharma&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitraj-sharma&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitraj-sharma&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=Ankitraj-sharma&theme=tokyonight&hide_border=true" />
 
@@ -222,7 +361,7 @@ DSA & Problem Solving
 
 ---
 
-# 🏆 GitHub Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -232,47 +371,103 @@ DSA & Problem Solving
 
 ---
 
-# 📈 My Development Journey
-
-```text
-Learn
-  ↓
-Build
-  ↓
-Test
-  ↓
-Deploy
-  ↓
-Improve
-  ↓
-Repeat 🚀
-```
-
-I believe the best way to learn software development is to **build real projects, break things, fix them, and keep improving.**
-
----
-
-# 🤝 Let's Connect
-
-I'm open to:
-
-* 💼 Software Development Internships
-* 🤝 Open-source collaboration
-* 🚀 Real-world development projects
-* 💡 Interesting technical ideas
-* 👨‍💻 Learning and building with other developers
+# 🐍 Contribution Snake
 
 <div align="center">
 
-### 📬 Get in Touch
+<img src="https://raw.githubusercontent.com/Ankitraj-sharma/Ankitraj-sharma/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
-📧 **Email:** [ankitrajsharma@gmail.com](mailto:ankitrajsharma@gmail.com)
+</div>
 
-💼 **LinkedIn:** [Ankit Raj Sharma](https://www.linkedin.com/in/ankitraj-sharma-9b1312330)
+> ⚠️ To enable this animation, create a GitHub Actions workflow that generates the contribution snake SVG into the `output` branch.
 
-🐦 **X:** [@sharma_ankitraj](https://x.com/sharma_ankitraj)
+---
 
-📸 **Instagram:** [@ankitraj_sharma__](https://www.instagram.com/ankitraj_sharma__)
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ankitraj-sharma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" />
+
+</div>
+
+---
+
+# 📌 My Development Philosophy
+
+> **Don't just learn technology. Build something with it.**
+
+```text
+        LEARN
+          ↓
+       EXPERIMENT
+          ↓
+        BUILD
+          ↓
+         TEST
+          ↓
+       DEPLOY
+          ↓
+       IMPROVE
+          ↓
+        REPEAT 🔥
+```
+
+Every project is an opportunity to learn something new.
+
+---
+
+# 🌱 Open Source & Collaboration
+
+I'm interested in collaborating on:
+
+* 🌐 Web applications
+* 💻 Full-stack projects
+* 🤖 AI-powered applications
+* ⚙️ .NET projects
+* 🧠 Developer tools
+* 📚 Educational projects
+* 🌍 Open-source projects
+
+If you have an interesting idea, feel free to reach out.
+
+---
+
+# 💼 Career Goals
+
+### 🎯 Short Term
+
+* Strengthen Full Stack Development
+* Improve DSA
+* Build production-quality projects
+* Learn cloud deployment
+* Contribute to open source
+
+### 🚀 Long Term
+
+Become a strong **Software Engineer** capable of designing, building, deploying and maintaining scalable real-world applications.
+
+---
+
+# 📬 Let's Connect
+
+<div align="center">
+
+<a href="mailto:ankitrajsharma@gmail.com">
+<img src="https://img.shields.io/badge/Email-ankitrajsharma%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ankitraj-sharma-9b1312330">
+<img src="https://img.shields.io/badge/LinkedIn-Ankit%20Raj%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://x.com/sharma_ankitraj">
+<img src="https://img.shields.io/badge/X-@sharma__ankitraj-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/ankitraj_sharma__">
+<img src="https://img.shields.io/badge/Instagram-@ankitraj__sharma__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </div>
 
@@ -280,12 +475,14 @@ I'm open to:
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-**If you find my projects interesting, consider giving them a ⭐**
-
-<br/>
+### 💻 Build. Learn. Deploy. Repeat. 🚀
 
 <img src="https://komarev.com/ghpvc/?username=Ankitraj-sharma&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<br/><br/>
+
+**Made with ❤️ and lots of ☕ by Ankit Raj Sharma**
 
 </div>
