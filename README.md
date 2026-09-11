@@ -37,7 +37,7 @@
 💡 Focus             → Full Stack & Software Development
 ⚙️ Backend           → C# / .NET / ASP.NET Core / Node.js
 🎨 Frontend          → HTML / CSS / JavaScript / React
-🗄️ Databases         → MySQL / MongoDB
+🗄️ Databases         → MySQL / MongoDB / firebase /supabase
 ☁️ Cloud & DevOps    → GitHub Actions / Docker / Cloud Deployment
 🚀 Current Mission   → Build → Learn → Deploy → Improve
 ```
@@ -49,7 +49,7 @@ I like working across the complete development lifecycle — from designing inte
 ### 🔥 What I'm Working Toward
 
 * 🚀 Building production-oriented applications
-* 💻 Becoming stronger with **C# & ASP.NET Core**
+* 💻 Becoming stronger with **C# , ASP.NET Core , python ,ML**
 * 🌐 Improving modern frontend development
 * 🧠 Strengthening DSA & problem solving
 * ☁️ Learning cloud & DevOps
