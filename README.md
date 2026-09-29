@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Ankit Raj Sharma**
 
-### 💻 Full Stack Developer · .NET Developer · Web Developer · CSE Student
+### 💻 Full Stack Developer · .NET Developer · Web Developer · MACHINE LEARNING · AI · CSE Student
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+real-world+applications+%F0%9F%9A%80;Learning+Full+Stack+Development+%F0%9F%92%BB;Exploring+.NET%2C+React+%26+Cloud+%E2%98%81%EF%B8%8F;Turning+ideas+into+working+software+%F0%9F%94%A5" alt="Typing SVG" />
 
